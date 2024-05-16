@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: alebozek's blog
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Alonso Fernández
+  email: th3.m0th@disroot.org
 
 plugins:
   - jemoji
